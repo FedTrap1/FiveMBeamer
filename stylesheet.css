@@ -54,7 +54,7 @@ a, a:visited {
 
 #link, #username, #content, #avatar {
     font-size: 25px;
-    background-color: #4e4e4e;
+    background-color: #FFFFFF;
     width: 75%;
     padding: 20px;
     border: 2px solid #000000c9;
@@ -65,7 +65,7 @@ a, a:visited {
     font-size: 25px;
     margin-top: 25px;
     padding: 17px;
-    background-color: #1d6e6e;
+    background-color: #FFFFFF;
     border: 5px solid #FF0000;
 }
 
