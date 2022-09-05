@@ -17,8 +17,8 @@ body {
     margin: auto;
     margin-right: 20px;
     margin-left: 20px;
-    box-shadow: 7px 7px #FFFFFF;
-    background: rgb(85, 85, 85); 
+    box-shadow: 7px 7px #FF0000;
+    background: rgb(255, 255, 255); 
     padding: 25px;
 }
 
