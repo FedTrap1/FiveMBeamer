@@ -2,21 +2,21 @@
   Project by Josh 
   https://github.com/FedTrap1 
 */
-@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Sofia&effect=neon');
 * {
     text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Sofia', sans-serif;
 }
 
 body {
-    background: #252424;
+    background: #FFFFFF;
 }
 
 #container {
     margin-top: 80px;
     margin: auto;
-    margin-right: 25px;
-    margin-left: 25px;
+    margin-right: 20px;
+    margin-left: 20px;
     box-shadow: 7px 7px #0000006c;
     background: rgb(85, 85, 85); 
     padding: 25px;
