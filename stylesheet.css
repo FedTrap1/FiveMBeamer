@@ -2,10 +2,10 @@
   Project by Josh 
   https://github.com/FedTrap1 
 */
-@import url('https://fonts.googleapis.com/css?family=Sofia&effect=neon');
+@import url('https://fonts.googleapis.com/css?family=RobotoMono');
 * {
     text-align: center;
-    font-family: 'Sofia', sans-serif;
+    font-family: 'Roboto-Mono', sans-serif;
 }
 
 body {
