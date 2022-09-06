@@ -12,15 +12,6 @@ body {
     background: #FFFFFF;
 }
 
-#container {
-    margin-top: 80px;
-    margin: auto;
-    margin-right: 20px;
-    margin-left: 20px;
-    box-shadow: 7px 7px #FF0000;
-    background: rgb(205, 0, 255); 
-    padding: 25px;
-}
 
 #header {
     text-align: center;
