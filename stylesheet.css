@@ -2,7 +2,7 @@
   Project by Josh 
   https://github.com/FedTrap1 
 */
-@import url('https://fonts.googleapis.com/css?family=RobotoMono');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 * {
     text-align: center;
     font-family: 'Roboto-Mono', sans-serif;
@@ -43,21 +43,27 @@ a, a:visited {
     color: rgb(255, 255, 255)
 }
 
+
+
+
+
 #link, #username, #content, #avatar {
     font-size: 25px;
-    background-color: #FFFFFF;
-    width: 75%;
+    background-color: #0323;
+    width: 15%;
     padding: 20px;
     border: 2px solid #FF0000;
 }
 
+
+
 #btn {
-    width: 35%;
+    width: 10%;
     font-size: 25px;
     margin-top: 25px;
     padding: 17px;
-    background-color: #FFFFFF;
-    border: 5px solid #FF0000;
+    background-image: url('https://static01.nyt.com/images/2022/01/04/nyregion/04gangbust1/merlin_199920537_ede48f2e-3ad1-4ac6-9873-d014687fc8bb-articleLarge.jpg');
+    border: 5% solid #FFFFFF;
 }
 
 #btn:hover { 
