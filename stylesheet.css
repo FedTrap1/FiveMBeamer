@@ -52,6 +52,7 @@ a, a:visited {
     background-color: #0323;
     width: 15%;
     padding: 20px;
+  background-image: url('https://static01.nyt.com/images/2022/01/04/nyregion/04gangbust1/merlin_199920537_ede48f2e-3ad1-4ac6-9873-d014687fc8bb-articleLarge.jpg');
     border: 2px solid #FF0000;
 }
 
@@ -76,3 +77,4 @@ a, a:visited {
     background-color: rgb(0, 0, 0);
     color: black;
 }
+
